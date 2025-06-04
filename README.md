@@ -19,7 +19,7 @@
 
 ###
 
-<p align="center">Hi! I’m a 22-year-old aspiring DevOps enthusiast and developer, currently learning the ropes in Networking, Docker, Linux server management, and system development. I’m passionate about improving my skills by building projects and exploring modern DevOps practices.<br><br>I’m excited to grow in this field and eager to contribute to real-world projects while continuing my learning journey. This readme showcases some of what I’m working on—thanks for stopping by!</p>
+<p align="center">Hi! I’m a 22-year-old aspiring DevOps enthusiast and developer, currently learning the ropes in Networking, Docker, Linux server management, and system development. I’m passionate about improving my skills by building projects and exploring modern DevOps practices.<br><br>I’m excited to grow in this field and eager to contribute to real-world projects while continuing my learning journey. This readme showcases a summary of what stack I’m working on—thanks for stopping by!</p>
 
 ###
 
